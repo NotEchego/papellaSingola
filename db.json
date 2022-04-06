@@ -12,7 +12,7 @@
   },
    {
   "segnatura":"2/4",
-  "messaInMacchina":1,
+  "messaInMacchina":2,
   "giriLavoro":33000,
   "tipoDiSegnatura":"9(60+60)",
   "bande":3,
@@ -22,7 +22,7 @@
   },
    {
   "segnatura":"3/3",
-  "messaInMacchina":1,
+  "messaInMacchina":3,
   "giriLavoro":33000,
   "tipoDiSegnatura":"9(60+60)",
   "bande":3,
@@ -32,7 +32,7 @@
   },
    {
   "segnatura":"4/2",
-  "messaInMacchina":1,
+  "messaInMacchina":4,
   "giriLavoro":33000,
   "tipoDiSegnatura":"9(60+60)",
   "bande":3,
@@ -42,7 +42,7 @@
   },
    {
   "segnatura":"5/1",
-  "messaInMacchina":1,
+  "messaInMacchina":5,
   "giriLavoro":33000,
   "tipoDiSegnatura":"9(60+60)",
   "bande":3,
