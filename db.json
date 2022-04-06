@@ -9,6 +9,46 @@
   "cNc": "C",
   "tiraturaLegatoria": 32350,
   "giriMacchinaBuoni": 34000
+  },
+   {
+  "segnatura":"2/4",
+  "messaInMacchina":1,
+  "giriLavoro":33000,
+  "tipoDiSegnatura":"9(60+60)",
+  "bande":3,
+  "cNc": "C",
+  "tiraturaLegatoria": 32350,
+  "giriMacchinaBuoni": 34000
+  },
+   {
+  "segnatura":"3/3",
+  "messaInMacchina":1,
+  "giriLavoro":33000,
+  "tipoDiSegnatura":"9(60+60)",
+  "bande":3,
+  "cNc": "C",
+  "tiraturaLegatoria": 32350,
+  "giriMacchinaBuoni": 34000
+  },
+   {
+  "segnatura":"4/2",
+  "messaInMacchina":1,
+  "giriLavoro":33000,
+  "tipoDiSegnatura":"9(60+60)",
+  "bande":3,
+  "cNc": "C",
+  "tiraturaLegatoria": 32350,
+  "giriMacchinaBuoni": 34000
+  },
+   {
+  "segnatura":"5/1",
+  "messaInMacchina":1,
+  "giriLavoro":33000,
+  "tipoDiSegnatura":"9(60+60)",
+  "bande":3,
+  "cNc": "C",
+  "tiraturaLegatoria": 32350,
+  "giriMacchinaBuoni": 34000
   }
  ]
 }
