@@ -1,0 +1,15 @@
+{
+"lavoro":[
+  {
+  "segnatura":"1/5",
+  "messaInMacchina":1,
+  "giriLavoro":33000,
+  "tipoDiSegnatura":"9(60+60)",
+  "bande":3,
+  "cNc": "C",
+  "tiraturaLegatoria": 32350,
+  "giriMacchinaBuoni": 34000
+  }
+ }
+ ]
+}
